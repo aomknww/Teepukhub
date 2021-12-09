@@ -1,24 +1,24 @@
 body,
 html
 .btn-outline-lg:hover {
-	background-color: #5f4dee;
-	color: #fff;
+	background-color: #4a7dc9;
+	color: #4a7dc9;
 	text-decoration: none;
 }
 
 .btn-outline-sm {
 	display: inline-block;
 	padding: 0.875rem 1.5rem 0.875rem 1.5rem;
-	border: 0.125rem solid #5f4dee;
+	border: 0.125rem solid #4a7dc9;
 	border-radius: 2rem;
 	background-color: transparent;
-	color: #5f4dee;
+	color: #4a7dc9;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
 }
 .navbar-custom {
-	background-color: #5f4dee;
+	background-color: #ffffff;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
 	transition: all 0.2s;
@@ -35,7 +35,7 @@ html
 
 .navbar-custom .navbar-brand.logo-text {
 	font: 700 2rem/1.5rem "Open Sans", sans-serif;
-	color: #fff;;
+	color: #ffffff;;
 	text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ html
 
 .navbar-custom .nav-item .nav-link {
 	padding: 0.625rem 0.75rem 0.625rem 0.75rem;
-	color: #f7f5f5;
+	color: #ffffff;
 	opacity: 0.8;
 	text-decoration: none;
 	transition: all 0.2s ease;
@@ -54,7 +54,7 @@ html
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #fff;
+	color: #ffffff;
 	opacity: 1;
 }
 
@@ -73,19 +73,19 @@ html
 	margin-top: 0;
 	border: none;
 	border-radius: 0.25rem;
-	background-color: #5f4dee;
+	background-color: #ffffff;
 }
 
 .navbar-custom .dropdown-item {
-	color: #f7f5f5;
+	color: #ffffff;
 	opacity: 0.8;
 	font: 700 0.875rem/0.875rem "Open Sans", sans-serif;
 	text-decoration: none;
 }
 
 .navbar-custom .dropdown-item:hover {
-	background-color: #5f4dee;
-	color: #fff;
+	background-color: #ffffff;
+	color: #ffffff;
 	opacity: 1;
 }
 
@@ -94,7 +94,7 @@ html
 	height: 1px;
 	margin: 0.75rem auto 0.725rem auto;
 	border: none;
-	background-color: #c4d8dc;
+	background-color: #ffffff;
 	opacity: 0.2;
 }
 /* end of dropdown menu */
@@ -103,19 +103,19 @@ html
 	margin-top: 0.25rem;
 	margin-bottom: 1.375rem;
 	margin-left: 0.5rem;
-	border: 0.125rem solid #fff;
-	color: #fff;
+	border: 0.125rem solid #ffffff;
+	color: #ffffff;
 }
 
 .navbar-custom .nav-item .btn-outline-sm:hover {
-	background-color: #fff;
-	color: #5f4dee;
+	background-color: #ffffff;
+	color: #ffffff;
 }
 
 .navbar-custom .navbar-toggler {
 	padding: 0;
 	border: none;
-	color: #fff;
+	color: #ffffff;
 	font-size: 2rem;
 }
 
@@ -144,7 +144,7 @@ html
 .footer {
 	padding-top: 3rem;
 	padding-bottom: 0.5rem;
-	background-color: #5f4dee;
+	background-color: #779eda;
 }
 
 .footer .footer-col {
@@ -153,7 +153,7 @@ html
 
 .footer h4 {
 	margin-bottom: 0.625rem;
-	color: #fff;
+	color: #779eda;
 }
 
 .footer .list-unstyled,
@@ -212,7 +212,7 @@ html
 
 	.navbar-custom.top-nav-collapse {
         padding: 0.5rem 1.5rem 0.5rem 2rem;
-		background-color: #5f4dee;
+		background-color: #4a7dc9;
 		box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	}
 
